@@ -43,6 +43,8 @@ By default, the app will start running on [http://localhost:3000](http://localho
       - If an item already exists in a user's saved items and the user clicks the "Save" option from the Main Table Details Modal, the saved item will be updated with the latest cryptocurrency values.
 - Users can log out using the provided "Logout" button located in the top-right corner of the page.
 
+### [Demonstration Video](https://drive.google.com/file/d/17GAUh0r3R5gJgKlEYXfXwDhclz4o36Sx/view?usp=sharing)
+
 ### Screens:
 - Main Screen
   <img width="1440" alt="Screenshot 2023-08-30 at 8 33 24 PM" src="https://github.com/TehArooj/crypto-currency-tracker/assets/58910327/93f04a85-4477-4999-95df-74ffa3649160">
@@ -58,4 +60,3 @@ By default, the app will start running on [http://localhost:3000](http://localho
   - Dropdown
     <img width="1440" alt="Screenshot 2023-08-30 at 8 45 23 PM" src="https://github.com/TehArooj/crypto-currency-tracker/assets/58910327/122d4ec6-5a67-463a-9305-63edf1903418">
 
-### [Demonstration Video](https://drive.google.com/file/d/17GAUh0r3R5gJgKlEYXfXwDhclz4o36Sx/view?usp=sharing)
