@@ -55,5 +55,7 @@ By default, the app will start running on [http://localhost:3000](http://localho
   <img width="1439" alt="Screenshot 2023-08-30 at 8 36 39 PM" src="https://github.com/TehArooj/crypto-currency-tracker/assets/58910327/0dcbba40-0930-469a-9b28-1ad3dfabeba2">
   - With Saved Items
     <img width="1440" alt="Screenshot 2023-08-30 at 8 38 57 PM" src="https://github.com/TehArooj/crypto-currency-tracker/assets/58910327/1f61f170-87cc-45e0-aed9-66c40304db6f">
-    - Dropdown
+  - Dropdown
     <img width="1440" alt="Screenshot 2023-08-30 at 8 45 23 PM" src="https://github.com/TehArooj/crypto-currency-tracker/assets/58910327/122d4ec6-5a67-463a-9305-63edf1903418">
+
+### [Demonstration Video](https://drive.google.com/file/d/17GAUh0r3R5gJgKlEYXfXwDhclz4o36Sx/view?usp=sharing)
