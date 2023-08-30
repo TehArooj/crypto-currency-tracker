@@ -97,7 +97,7 @@ export default function Join() {
             >
               Email address
             </label>
-            <div className="mt-1">
+            <div className="mt-1 text-blue-950">
               <input
                 ref={emailRef}
                 id="email"
@@ -125,7 +125,7 @@ export default function Join() {
             >
               Password
             </label>
-            <div className="mt-1">
+            <div className="mt-1 text-blue-950">
               <input
                 id="password"
                 ref={passwordRef}

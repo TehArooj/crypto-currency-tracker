@@ -62,7 +62,7 @@ export const meta: V2_MetaFunction = () => [{ title: "Login" }];
 
 export default function LoginPage() {
   const [searchParams] = useSearchParams();
-  const redirectTo = searchParams.get("redirectTo") || "/notes";
+  const redirectTo = searchParams.get("redirectTo") || "/";
   const actionData = useActionData<typeof action>();
   const emailRef = useRef<HTMLInputElement>(null);
   const passwordRef = useRef<HTMLInputElement>(null);
@@ -92,7 +92,7 @@ export default function LoginPage() {
             >
               Email address
             </label>
-            <div className="mt-1">
+            <div className="mt-1 text-blue-950">
               <input
                 ref={emailRef}
                 id="email"
@@ -120,7 +120,7 @@ export default function LoginPage() {
             >
               Password
             </label>
-            <div className="mt-1">
+            <div className="mt-1 text-blue-950">
               <input
                 id="password"
                 ref={passwordRef}
