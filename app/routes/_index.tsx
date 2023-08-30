@@ -259,7 +259,7 @@ export default function App() {
               {Object.keys(selectedCurrency ?? {}).map((item) => (
                 <>
                   <input name={item} value={selectedCurrency?.[item as keyof Crypto]} type='hidden' />
-                  {CRYPTO_PROPERTIES_NAME_MAP[item as keyof typeof CRYPTO_PROPERTIES_NAME_MAP] && <div className="mt-4 bg-fuchsia-50 min-w-full w-fit rounded-lg p-2 break-all">{item as keyof typeof CRYPTO_PROPERTIES_NAME_MAP} <br /> {selectedCurrency?.[item as keyof Crypto]}</div>}
+                  {CRYPTO_PROPERTIES_NAME_MAP[item as keyof typeof CRYPTO_PROPERTIES_NAME_MAP] && <div className="mt-4 bg-fuchsia-50 min-w-full w-fit rounded-lg p-2 break-all">{CRYPTO_PROPERTIES_NAME_MAP[item as keyof typeof CRYPTO_PROPERTIES_NAME_MAP]} <br /> {selectedCurrency?.[item as keyof Crypto]}</div>}
                 </>
               ))}
             </div>
