@@ -263,7 +263,7 @@ export default function App() {
                 </>
               ))}
             </div>
-            <div className="mt-4 bg-fuchsia-50 min-w-full w-fit rounded-lg p-2 break-all">Explorer Link <br /> <a href={selectedCurrency?.explorer} className="text-blue-800">{selectedCurrency?.explorer}</a></div>
+            <div className="mt-4 bg-fuchsia-50 min-w-full w-fit rounded-lg p-2 break-all">Explorer Link <br /> <a href={selectedCurrency?.explorer} target="_blank" className="text-blue-800" rel="noreferrer">{selectedCurrency?.explorer}</a></div>
             <div className="modal-action fixed bottom-6 right-2">
               <input name='unsave' value={JSON.stringify(!!selectedCurrency?.savedItem)} type='hidden' />
               {user && (
