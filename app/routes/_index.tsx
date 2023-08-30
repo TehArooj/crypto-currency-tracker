@@ -223,7 +223,7 @@ export default function App() {
                         <td>Rank</td>
                         <td>Name</td>
                         <td>Symbol</td>
-                        <td>Amount</td>
+                        <td>Price in USD</td>
                         <td>Trade Volume</td>
                         <td>Percentage Change</td>
                       </tr>
