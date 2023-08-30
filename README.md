@@ -6,8 +6,8 @@ A cryptocurrency tracker that provides users with the latest details about the T
 - [Remix](https://remix.run/)
 - [Tailwind](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
-- [Prisma with SQLite](https://www.prisma.io/docs/concepts/database-connectors/sqlite)
-- [FlexsearchJS](https://github.com/nextapps-de/flexsearch) (For Search Operation)
+- [Prisma with SQLite](https://www.prisma.io/docs/concepts/database-connectors/sqlite) (CRUD Operations Used)
+- [FlexsearchJS](https://github.com/nextapps-de/flexsearch) (A high-performance, client-side full-text search library for JavaScript applications, enabling fast and customizable search functionality with efficient ranking and offline support)
 
 ### Quickstart:
 - Clone with repo with
